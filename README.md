@@ -1,7 +1,7 @@
-[![MasterHead]](https://drive.google.com/file/d/1vZTXoSIRpfYRMo6HlUwH1h2ML8nEpIsW/view?usp=sharing)
+
 <h1 align="center">Hi 👋, I'm Ajiba Reeshma B</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="[https://dribbble.com/shots/15215756-Coding-Animation-Concept](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40pranavwaykar%2Fthe-best-first-programming-language-a-comprehensive-overview-febdac20062e&psig=AOvVaw1N-823-PefBYHrSW-UKytJ&ust=1753444874163000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCODSrqi51Y4DFQAAAAAdAAAAABAs)">
+<img align="right" alt="Coding" width="400"  style="border-radius: 20px;" src="https://media3.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajibareeshma&label=Profile%20views&color=0e75b6&style=flat" alt="ajibareeshma" /> </p>
 
